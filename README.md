@@ -14,7 +14,7 @@ A collection of Google Apps Script that integrate Takealot APIs, Google Products
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshot2.jpg" alt="Screenshot 2" width="400" />
+  <img src="screenshots/Screenshot2.JPG" alt="Screenshot 2" width="400" />
 </p>
 
 <p align="center">
